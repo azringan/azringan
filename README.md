@@ -1,3 +1,26 @@
+# Hi, I'm Azrin 👋
+
+Firmware Engineer at **Intel**.
+
+This is my **personal** account — open source, side projects, and experiments.
+
+### 🔗 My work account
+
+Most of my day-to-day engineering happens on my corporate account:
+
+👉 **[@amohdtaf](https://github.com/amohdtaf)** — contribution graph is public there
+
+Those repositories are private to Intel, so the work itself isn't visible,
+but the activity history is.
+
+---
+
+📫 Reach me: [LinkedIn](https://linkedin.com/in/azrin-mohd-taffy-gan-202a201a2) · 
+
+
+
+
+
 ## Hi there 👋
 
 <!--
